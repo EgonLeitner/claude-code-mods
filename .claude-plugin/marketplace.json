@@ -1,0 +1,12 @@
+{
+  "name": "egonleitner",
+  "description": "Mods for Claude Code by Egon Leitner",
+  "owner": { "name": "Egon Leitner" },
+  "plugins": [
+    {
+      "name": "dashband",
+      "source": { "source": "github", "repo": "OWNER/dashband" },
+      "description": "Band above the prompt showing prompt cache warmth, time to expiry and hit ratio"
+    }
+  ]
+}
