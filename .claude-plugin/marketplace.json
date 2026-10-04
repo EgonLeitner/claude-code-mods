@@ -6,7 +6,7 @@
     {
       "name": "dashband",
       "source": { "source": "github", "repo": "OWNER/dashband" },
-      "description": "Band above the prompt showing prompt cache warmth, time to expiry and hit ratio"
+      "description": "Prompt cache, context and plan limits at a glance, in the prompt footer and above the prompt"
     }
   ]
 }

@@ -20,7 +20,7 @@ claude plugin install dashband@egonleitner
 
 | Mod | What it does |
 |---|---|
-| [dashband](https://github.com/OWNER/dashband) | Band above the prompt showing prompt cache warmth, time to expiry and hit ratio |
+| [dashband](https://github.com/OWNER/dashband) | Prompt cache, context and plan limits at a glance, in the prompt footer and above the prompt |
 
 Mods need Claude Code 2.1.287 or later and draw in the terminal and in the Code tab of the
 Claude Desktop app. A mod runs with your permissions; read its README before installing.
