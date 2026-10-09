@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "dashband",
-      "source": { "source": "github", "repo": "OWNER/dashband" },
+      "source": { "source": "github", "repo": "EgonLeitner/dashband" },
       "description": "Prompt cache, context and plan limits at a glance, in the prompt footer and above the prompt"
     }
   ]

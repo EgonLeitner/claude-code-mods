@@ -5,9 +5,8 @@ each developed in its own repository.
 
 ## Add the marketplace
 
-<!-- On first publication, replace every OWNER in this repository with the GitHub account. -->
 ```bash
-claude plugin marketplace add OWNER/claude-code-mods
+claude plugin marketplace add EgonLeitner/claude-code-mods
 ```
 
 Then install a mod by its name, for example:
@@ -20,7 +19,7 @@ claude plugin install dashband@egonleitner
 
 | Mod | What it does |
 |---|---|
-| [dashband](https://github.com/OWNER/dashband) | Prompt cache, context and plan limits at a glance, in the prompt footer and above the prompt |
+| [dashband](https://github.com/EgonLeitner/dashband) | Prompt cache, context and plan limits at a glance, in the prompt footer and above the prompt |
 
 Mods need Claude Code 2.1.287 or later and draw in the terminal and in the Code tab of the
 Claude Desktop app. A mod runs with your permissions; read its README before installing.
